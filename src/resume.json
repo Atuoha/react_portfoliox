@@ -1,0 +1,122 @@
+{
+	"name": "Tony A",
+	"email": "atutechsdev@gmail.com",
+	"phone": "+2348143200267",
+	"role": "Full Stacked Developer",
+	"image": "assets/images/0.jpg",
+	"website": "https://bit.ly/atuohaa",
+	"linkedinURL": "https://linkedin.com/atuoha.tony",
+	"githubURL": "https://github.com/atuoha",
+	"linkedin": "Atuoha Anthony",
+	"github": "Atuoha",
+	"twitter": "@atuohaa",
+	"twitterURL": "https://twitter.com/atuohaa",
+	"career-summary": "A developer with experiences on the computing industry where exertions are made without hold-backs or falls towards an attainment of a goal that lies beyond the expectations of our sketches :)",
+	"experiences" : [
+		{
+			"title" : "Lead Developer",
+			"period": "2019 - Present",
+			"company": "Atutechs Corp, PHC",
+			"companyURL": "https://bit.ly/atutechs",
+			"details": "Lead in the design and developement of user centered application and websites which in turn parved a huge possibility to tackle more real world related problems using computing processes"
+		},
+		{
+			"title" : "Software Engineer",
+			"period": "2018 - 2019",
+			"company": "Skyroot Services, Owerri",
+			"companyURL": "https://bit.ly/atutechs",
+			"details": "Learnt Algorithms and logic handling with a purpose to diversify ways that issues will be solved through processes that involves programming and more"
+		}
+	],
+	"projects": [
+		{
+			"name":"PickRide",
+			"url": "https//bit.ly/atutechs",
+			"detail": "Taxi Booking Application "
+		},
+		{
+			"name":"InfoMedia",
+			"url": "https//bit.ly/atutechs",
+			"detail": "Live Media Video Capturing with storing ability "
+		},
+		{
+			"name":"BigMarket",
+			"url": "https//bit.ly/atutechs",
+			"detail": "Advanced Shopping DBMS"
+		},
+		{
+			"name":"Restaulav",
+			"url": "https//bit.ly/atutechs",
+			"detail": "Restaurant reservation/booking management system"
+		},
+		{
+			"name":"Investngain",
+			"url": "https//bit.ly/atutechs",
+			"detail": "Bitcoin trading/investment website"
+		}
+	],
+	"skills": [
+		{
+			"name": "Php & Laravel",
+			"percent": "98%"
+		},
+		{
+			"name": "Javascript & jQuery",
+			"percent": "90%"
+		},
+		{
+			"name": "React & React Native",
+			"percent": "80%"
+		},
+		{
+			"name": "Node js",
+			"percent": "99%"
+		},
+		{
+			"name": "Electron & .Net",
+			"percent": "70%"
+		},
+		{
+			"name": "Writing",
+			"percent": "85%"
+		}
+	],
+	"education": [
+		{
+			"degree": "Msc in Computer Science",
+			"university": "University of Russia",
+			"period": "2028 - 2029"
+		},
+		{
+			"degree": "Diploma in Applied Mathematics/Computing",
+			"university": "FPNO Nigeria",
+			"period": "2017 - 2024"
+		}
+	],
+	"languages": [
+		{
+			"name":"Nigerian Igbo",
+			"details": "Native"
+		},
+		{
+			"name":"English",
+			"details": "Professional"
+		},
+		{
+			"name":"Pidgin",
+			"details": "Unofficial"
+		}
+	],
+	"interests": [
+		"Writing",
+		"Skating",
+		"Movie Streaming",
+		"Coding"
+	]
+}
+
+
+
+
+
+
